@@ -23,7 +23,7 @@ Este perfil é o meu laboratório pessoal. É aqui que compartilho meus códigos
 
 * 🧠 Obcecado por explorar e entender profundamente novas tecnologias
 * 🤖 Gosto de criar soluções, automatizar processos e testar limites envolvendo Inteligência Artificial
-* 🎨 Fã absoluto de design minimalista (estilo Apple)
+* 🎨 Fã absoluto de design minimalista 
 * 🎯 Focado em aplicar minha base de engenharia de software na construção de produtos de impacto
 
 
