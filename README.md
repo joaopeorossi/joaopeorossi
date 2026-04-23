@@ -1,16 +1,29 @@
 ## Hi there 👋
 
-<!--
-**joaopeorossi/joaopeorossi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou o João Pedro, estudante de Análise e Desenvolvimento de Sistemas (ADS) baseado no Rio de Janeiro.
 
-Here are some ideas to get you started:
+Meu foco principal é o Back-end — construindo lógicas sólidas com Python e Java, sempre movido pela curiosidade de entender como novas tecnologias funcionam por baixo dos panos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Também trago uma forte bagagem de design (UI/UX), o que me permite enxergar o produto de ponta a ponta e focar em interfaces simples, limpas e funcionais.
+
+Este perfil é o meu laboratório pessoal. É aqui que compartilho meus códigos, experimentos com Inteligência Artificial e coisas novas que estou construindo do zero.
+
+---
+
+### Tools & Tech
+
+* **Back-end:** Python, Java
+* **Inovação & IA:** Integrações com IAs generativas, Google AI Studio
+* **Design & Visão de Produto:** Figma, conceitos de UI/UX
+* **Ferramentas:** Git, GitHub, IntelliJ IDEA
+
+---
+
+### A Bit About Me
+
+* 🧠 Obcecado por explorar e entender profundamente novas tecnologias
+* 🤖 Gosto de criar soluções, automatizar processos e testar limites envolvendo Inteligência Artificial
+* 🎨 Fã absoluto de design minimalista (estilo Apple)
+* 🎯 Focado em aplicar minha base de engenharia de software na construção de produtos de impacto
+
+
